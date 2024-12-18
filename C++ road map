@@ -1,0 +1,94 @@
+1. Understand the Basics (1-2 Days)
+   - Learn syntax: How to write and run a basic program.
+     - Example: Print "Hello, World!" using `#include <iostream>`.
+   - Master basic concepts:
+     - Variables: `int`, `float`, `char`, `string`.
+     - Input/Output: `cin`, `cout`.
+     - Control Flow: `if-else`, `switch`, `for`, `while`, `do-while`.
+
+---
+
+ 2. Core Concepts (4-5 Days)**
+   - **Functions**:
+     - Learn how to write and use functions.
+     - Understand return types and parameters.
+   - **Arrays**:
+     - How to store multiple values in one variable.
+     - 1D and 2D arrays.
+   - **Pointers**:
+     - Learn about memory addresses and pointers.
+     - How to use `&` and `*`.
+
+---
+
+3. **Object-Oriented Programming (5-7 Days)
+   - **Classes and Objects**:
+     - Learn how to create a class and object.
+     - Example: Create a `Car` class with properties like `brand` and `speed`.
+   - **Inheritance**:
+     - How one class can derive from another.
+   - **Polymorphism**:
+     - Function overloading and overriding.
+   - **Encapsulation**:
+     - Using `private`, `public`, and `protected`.
+
+---
+
+### 4. **Standard Template Library (STL)   (2-3 Days)
+   - Learn the most used STL containers:
+     - **Vector**: Dynamic arrays.
+     - **Set**: Unique elements.
+     - **Map**: Key-value pairs.
+     - **Queue/Stack**: FIFO and LIFO structures.
+   - Practice basic STL algorithms:
+     - `sort()`, `find()`, etc.
+
+---
+
+5. File Handling (1-2 Days)**
+   - Learn how to read and write data to files.
+     - Use `fstream`, `ifstream`, `ofstream`.
+
+
+
+6. practice Problems (7+ Days)**
+     - Use online platforms like **LeetCode**, **HackerRank**, or **Codeforces** to solve:
+     - Basic problems (loops, arrays, functions).
+     - Intermediate problems (OOP concepts, STL).
+
+---
+
+Tips for Quick Learn
+1. **Write Code Every Day**:
+   - Learning by doing is the fastest way to improve.
+   - Practice small programs after every new topic.
+2. **Focus on Essentials**:
+   - Skip advanced topics like multi-threading or templates for now.
+3. **Debugging**:
+   - Learn how to read and fix errors quickly.
+4. **Use Resources**:
+   - Free sites: [GeeksforGeeks](https://www.geeksforgeeks.org/), [CPP Reference](https://en.cppreference.com/).
+   - Video tutorials on YouTube.
+
+---
+
+Example Timeline (15 Days Plan):
+| Day | Topics to Cover               |
+|-----|-------------------------------|
+| 1   | Setup and Syntax Basics       |
+| 2   | Variables, Input/Output       |
+| 3   | Loops, Conditional Statements |
+| 4   | Functions                     |
+| 5   | Arrays, Pointers              |
+| 6   | Classes and Objects           |
+| 7   | Inheritance                   |
+| 8   | Polymorphism, Encapsulation   |
+| 9   | STL: Vector, Set              |
+| 10  | STL: Map, Queue               |
+| 11  | File Handling                 |
+| 12  | Practice Problems (Easy)      |
+| 13  | Practice Problems (Medium)    |
+| 14  | Mini Project                  |
+| 15  | Revise and Practice           |
+
+You’ll need focus and consistent practice to stick to this plan!
